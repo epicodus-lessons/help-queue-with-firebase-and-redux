@@ -1,7 +1,7 @@
 ## What is this?
 ---
 
-This is an example project from LearnHowToProgram.com that shows how to use the following tools to create a web app:
+This is an example project from LearnHowToProgram.com ["React with NoSQL" coursework](https://www.learnhowtoprogram.com/react/react-with-nosql) that shows how to use the following tools to create a web app:
 
 - React version 16
 - Redux version 4
